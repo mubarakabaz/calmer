@@ -12,8 +12,8 @@ Hanya Kegabutan Unfaedah.
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [mubarakabaz@gmail.com](mailto:mubarakabaz@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Calmer, please send an e-mail to [mubarakabaz@gmail.com](mailto:mubarakabaz@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Calmer framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
