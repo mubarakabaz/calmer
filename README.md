@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/mubarakabaz" target="_blank"><img src="logo-calmerz.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/mubarakabaz" target="_blank"><img src="https://raw.githubusercontent.com/mubarakabaz/calmer/main/logo-calmer.png" width="400"></a></p>
 
 <p align="center">
 <a href="#"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
